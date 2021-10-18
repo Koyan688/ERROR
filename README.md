@@ -1,2 +1,2 @@
 # ERROR
-the collection of the errors or exceptions I met
+the record of the exceptions I met in learning coding.
